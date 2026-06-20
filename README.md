@@ -33,7 +33,7 @@ with lock:
     results.append(port)
 ```
 
-See [`Assignment_3_Report.pdf`](./Assignment_3_Report.pdf) §4 for a full step-by-step trace of the race condition and how the mutex prevents it.
+See [`Project_Report.pdf`](./Project_Report.pdf) §4 for a full step-by-step trace of the race condition and how the mutex prevents it.
 
 ## Demo: Phase 1 — Detection
 
@@ -77,7 +77,7 @@ The packet counters confirm the DROP rule is actively matching and discarding tr
 - Trivially bypassed by IP rotation/spoofing
 - Vulnerable to log flooding / disk exhaustion attacks
 
-Full discussion in [`Assignment_3_Report.pdf`](./Assignment_3_Report.pdf) §3.3.
+Full discussion in [`Project_Report.pdf`](./Project_Report.pdf) §3.3.
 
 ## How to Run
 
