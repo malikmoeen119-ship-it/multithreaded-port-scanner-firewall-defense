@@ -107,9 +107,4 @@ Requires Python 3 — no external dependencies, only the standard library.
 ```
 
 ## Authors
-
-Section BEIS-5A — Military College of Signals, NUST
-- NC Muhammad Moeen
-- NC Laraib
-- Capt Syed Muhammad Arif Shah
-- GC Basit Khan
+ Muhammad Moeen
